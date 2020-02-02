@@ -1,6 +1,8 @@
-Dwayne Moore
-------------
-Software Engineer leading a small innovative team of developers working to promote DevOps, Agile and automation.                     
+# Dwayne Moore
+
+```
+Software Engineer leading a small innovative team of developers working to promote DevOps, Agile and automation.  
+```                   
 
 
 Education
@@ -8,14 +10,15 @@ Education
 
 20001-2005 : **BSc Honours, Computer Science and Software Engineering**, Carleton University
 
+  ```
   *Thesis title: Automomous mapping with robotics in two-dimensional space*
-
+  ```
 
 
 Experience
 ----------
 
-**Digital Technology Solution**
+**Digital Technology Solutions** *(May 2018 - Present)*
 
 Lead the Site Reliability Engineering and Product Delvery teams:
 
@@ -27,7 +30,7 @@ Lead the Site Reliability Engineering and Product Delvery teams:
 
 * Delivery of several web applicaitons based on Angular, React and Node
 
-**Solution Architecture**
+**Solution Architecture** *(September 2016 - May 2018)*
 
 Senior Technical Advisor for ESDC providing design services to over 500 enterprise systems.
 
@@ -37,7 +40,7 @@ Senior Technical Advisor for ESDC providing design services to over 500 enterpri
 
 * Managed the technical standards repository focues on promoting the adoption of modern open-source tools within IITB
 
-**Shared Applicaiton Development Environmet**
+**Shared Applicaiton Development Environmet** *(September 2009 - August 2016)*
 
 ALM lead wtihin ESDC focused on the adoptiong of modern development tools and practices
 
@@ -47,25 +50,21 @@ ALM lead wtihin ESDC focused on the adoptiong of modern development tools and pr
 
 * Enterprise operations lead for Linux and Windows middle-tier environments across Canada
 
+
 Technical Knowledge
 --------------------
 
-Programming Languages
-:   **Java:** Have lead development of several enterprise-level Java 
-    aplications including the CADE deployment engine, the Content Pre
-    -procesor for parsing and filtering on the HRDC corporate website,
-    and the IAMU client poral for SDC. 
+### Programming Languages
 
-:   **C#:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+- **Java:** Lead the development of several enterprise-level Java aplications including the CADE deployment engine, the Content Pre-procesor for parsing and filtering on the HRDC corporate website, and the IAMU client poral for SDC. 
 
-:   **Perl:** Extensive use of Perl as an intemediary configuration
-    management and installation tool within the SADE hosting environment
+- **C#:** Development of several forms-based applications for windows hosting environments including 
 
-:   Basic knowledge of **JavaScript**, **C**, **x86 assembly**, **Lisp**
+- **Perl:** Extensive use of Perl as an intemediary configuration management and installation tool within the SADE hosting environment
 
-[ref]: https://github.com/telecoaster
+- Basic knowledge of **JavaScript**, **C**, **x86 assembly**, **Lisp**
+
+--------
+[GitHub](https://github.com/telecoaster) | [LinkedIn](https://www.linkedin.com/in/dwayne-moore-b2216539/)
 
 
