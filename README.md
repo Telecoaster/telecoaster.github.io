@@ -1,6 +1,6 @@
 Dwayne Moore
 ------------
-I lead a small innovative team of developers working to promote DevOps, Agile and automation.                     
+Software Engineer leading a small innovative team of developers working to promote DevOps, Agile and automation.                     
 
 
 Education
@@ -49,21 +49,6 @@ ALM lead wtihin ESDC focused on the adoptiong of modern development tools and pr
 
 Technical Knowledge
 --------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
 
 Programming Languages
 :   **Java:** Have lead development of several enterprise-level Java 
