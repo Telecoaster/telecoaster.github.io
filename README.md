@@ -39,7 +39,7 @@ Senior Technical Advisor for ESDC providing design services to over 500 enterpri
 
 ALM lead wtihin ESDC focused on the adoptiong of modern development tools and practices
 
-* Operations lead for various ALM tools including Jenkins, Artifactory, Maven, TFS, Subversion supporting over 1000 developers and testers
+* Operations lead for various ALM tools including Jenkins, Artifactory, Maven, TFS, Subversion supporting over 1000 developers
 * Development lead for CADE, a java-based custom deployment tool
 * Enterprise operations lead for Linux and Windows middle-tier environments across Canada
 
