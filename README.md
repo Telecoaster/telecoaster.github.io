@@ -20,7 +20,7 @@ Experience
 
 **Digital Technology Solutions** *(May 2018 - Present)*
 
-Lead the Site Reliability Engineering and Product Delvery teams:
+Lead the Site Reliability Engineering and Product Delivery teams:
 
 * Promotion of DevOps and Agile best practices
 
@@ -28,7 +28,7 @@ Lead the Site Reliability Engineering and Product Delvery teams:
 
 * Implementation of ELK stack monitoring suite for all IITB solutions across Canada
 
-* Delivery of several web applicaitons based on Angular, React and Node
+* Delivery of several web applications based on Angular, React and Node
 
 **Solution Architecture** *(September 2016 - May 2018)*
 
@@ -38,7 +38,7 @@ Senior Technical Advisor for ESDC providing design services to over 500 enterpri
 
 * Lead the development of the Enterprise Architecture Meta-model to map interdependancies between the disparate ESDC systems
 
-* Managed the technical standards repository focues on promoting the adoption of modern open-source tools within IITB
+* Managed the technical standards repository focued on promoting the adoption of modern open-source tools within IITB
 
 **Shared Applicaiton Development Environmet** *(September 2009 - August 2016)*
 
@@ -56,13 +56,21 @@ Technical Knowledge
 
 ### Programming Languages
 
-- **Java:** Lead the development of several enterprise-level Java aplications including the CADE deployment engine, the Content Pre-procesor for parsing and filtering on the HRDC corporate website, and the IAMU client poral for SDC. 
+- **Java:** Lead the development of several enterprise-level Java applications including the CADE deployment engine, the Content Pre-processor for parsing and filtering on the HRDC corporate website, and the IAMU client portal for SDC. 
 
 - **C#:** Development of several forms-based applications for windows hosting environments including 
 
-- **Perl:** Extensive use of Perl as an intemediary configuration management and installation tool within the SADE hosting environment
+- **Perl:** Extensive use of Perl as an intermediary configuration management and scripting tool within the SADE hosting environment
 
 - Basic knowledge of **JavaScript**, **C**, **x86 assembly**, **Lisp**
+
+### Technologies
+
+- **Platform**: Azure Cloud, VMWare, Hyper-v
+- **ALM**: Git, Azure DevOps, Jenkins, Artifactory, Maven, ANT
+- **Operating Systems**: Linux, Windows, OSX
+- **Collaboration**: Jira, Confluence, Trello, SharePoint, OneNote, Slack 
+- **Multimedia**: Photoshop, Lightroom, FinalCut, Logic Pro, Reaper
 
 --------
 [GitHub](https://github.com/telecoaster) | [LinkedIn](https://www.linkedin.com/in/dwayne-moore-b2216539/)
