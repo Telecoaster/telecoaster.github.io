@@ -8,10 +8,10 @@ Software Engineer leading a small innovative team of developers working to promo
 Education
 ---------
 
-20001-2005 : **BSc Honours, Computer Science and Software Engineering**, Carleton University
+2001-2005 : **BSc Honours, Computer Science and Software Engineering**, Carleton University
 
   ```
-  *Thesis title: Automomous mapping with robotics in two-dimensional space*
+  Thesis title: Automomous mapping with robotics in two-dimensional space
   ```
 
 
