@@ -58,7 +58,7 @@ Technical Knowledge
 
 - **Java:** Lead the development of several enterprise-level Java applications including the CADE deployment engine, the Content Pre-processor for parsing and filtering on the HRDC corporate website, and the IAMU client portal for SDC. 
 
-- **C#:** Development of several forms-based applications for windows hosting environments including 
+- **C#:** Development of several forms-based applications for windows hosting environments
 
 - **Perl:** Extensive use of Perl as an intermediary configuration management and scripting tool within the SADE hosting environment
 
